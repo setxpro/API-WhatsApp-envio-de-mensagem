@@ -15,6 +15,8 @@ tsc teste.js
 
 _Check List_ <br>
 
-[] -> Client
+[x] -> WhatsApp Web
+    [x] -> lib -- https://github.com/orkestral/venom
+[x] -> Client
+    [] -> validate Client -- npm i libphonenumber-js --save
 [] -> API nodeJS
-[] -> WhatsApp Web
