@@ -25,5 +25,5 @@
 ```sh
 npm init
 tsc --init
-tsc teste.js
+npm run dev
 ```
