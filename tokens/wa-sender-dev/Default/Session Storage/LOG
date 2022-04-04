@@ -1,3 +1,2 @@
-2022/04/03-22:05:41.413 2f34 Reusing MANIFEST C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\Session Storage/MANIFEST-000001
-2022/04/03-22:05:41.416 2f34 Recovering log #3
-2022/04/03-22:05:41.418 2f34 Reusing old log C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\Session Storage/000003.log 
+2022/04/03-23:31:37.096 3f58 Creating DB C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\Session Storage since it was missing.
+2022/04/03-23:31:37.105 3f58 Reusing MANIFEST C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\Session Storage/MANIFEST-000001

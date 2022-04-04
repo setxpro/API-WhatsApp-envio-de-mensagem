@@ -1,3 +1,2 @@
-2022/04/03-22:05:41.936 2f34 Reusing MANIFEST C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/03-22:05:41.937 2f34 Recovering log #665
-2022/04/03-22:05:42.009 2f34 Reusing old log C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000665.log 
+2022/04/03-23:31:37.982 3d78 Creating DB C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/04/03-23:31:37.990 3d78 Reusing MANIFEST C:\Users\55219\Desktop\Projetos Prontos\backend\api-wapp\tokens\wa-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
